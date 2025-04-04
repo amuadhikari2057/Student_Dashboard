@@ -5,6 +5,7 @@
 This repository contains Power BI dashboards that provide insights into student performance, enrollment trends, and payment methods. These dashboards help educational institutions analyze key metrics such as student success rates, course enrollments, grade distributions, and payment breakdowns.
 
 📷 Dashboard Previews
+
 1️⃣ Student Performance Analytics Dashboard
 Total Students & Courses: Displays the number of students and available courses.
 
