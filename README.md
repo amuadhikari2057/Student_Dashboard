@@ -29,6 +29,7 @@ Payment Methods: Compares different payment methods used by students.
 Country-wise Student Enrollment: Displays student distribution by country and academic field.
 
 📌 Features
+
 📈 Data Visualization: Interactive Power BI dashboards for clear insights.
 
 🔍 Filters & Drilldowns: User-friendly dropdowns for filtering data by department, country, and payment methods.
