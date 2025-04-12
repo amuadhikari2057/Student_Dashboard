@@ -2,43 +2,80 @@
 
 ![Screenshot 2025-04-12 205856](https://github.com/user-attachments/assets/b6caf5ba-0474-4a5e-bf88-869e2ec64ea9)
 
+📊 Student Performance Analytics Dashboard
 
+This dashboard provides a comprehensive analysis of student performance and related academic metrics across multiple departments and countries. Designed using an interactive and visually appealing layout, it helps educational institutions make data-driven decisions for better academic management.
 
+🔍 Overview
 
-📌 Overview
-This repository contains Power BI dashboards that provide insights into student performance, enrollment trends, and payment methods. These dashboards help educational institutions analyze key metrics such as student success rates, course enrollments, grade distributions, and payment breakdowns.
+The Student Performance Analytics Dashboard is divided into key performance indicators (KPIs), visual charts, and detailed tabular data to track and evaluate various metrics such as total students, courses, pass/fail statistics, department-wise and country-wise performance, financial data, and enrollment trends.
 
-📷 Dashboard Previews
+📈 Key Metrics & Visual Components
 
-1️⃣ Student Performance Analytics Dashboard
-Total Students & Courses: Displays the number of students and available courses.
+Top KPIs
 
-Pass/Fail Analysis: Shows the number of students who passed and failed.
+Total Students: Displays the total number of students, which stands at 6,000.
 
-Book Returns Analysis: Tracks book return trends over months.
+Total Courses: Indicates there are 50 distinct courses offered.
 
-Payment Breakdown: Analyzes student fee payment methods.
+Total Passed: Highlights that 6,000 students have passed, representing 90% of the student population.
 
-Enrollment Trends: Shows fluctuations in student enrollment over time.
+Total Failed: Shows that 596 students failed, which is 9.6% of the total.
 
-Country-wise Student Distribution: Compares student distribution across different countries and study fields.
+Total Books Returns in Months
+This is represented through a treemap chart categorizing book return patterns. Each block corresponds to different labeled clusters (e.g., “Phased cohesive service-desk,” “Reverse-engineered transition”), showing varied usage or return volume trends across time.
 
-2️⃣ Student Performance Dashboard
-Grade Distribution: A pie chart illustrating the percentage of students in different grade categories (A, B, C).
+Payment Breakdown
+A stacked column chart demonstrates the breakdown of payments over months, categorized by payment methods:
 
-Enrollment Trends: A time-series graph tracking student enrollments over the years.
+Bank Transfer
 
-Payment Methods: Compares different payment methods used by students.
+Cash
 
-Country-wise Student Enrollment: Displays student distribution by country and academic field.
+Credit Card
 
-📌 Features
+Online Payment
 
-📈 Data Visualization: Interactive Power BI dashboards for clear insights.
+The left y-axis represents the amount paid, and the right y-axis shows the total number of students. This helps in visualizing the financial behavior of students over time, with data from 2015 to 2016.
 
-🔍 Filters & Drilldowns: User-friendly dropdowns for filtering data by department, country, and payment methods.
+Enrollment Date Breakdown
+A time series line graph tracks student enrollment trends from 2015 to 2024, highlighting seasonal fluctuations and predicting near-future enrollment using shaded projections. It reveals insights into peak admission months and consistency in student intake.
 
-📊 Performance Tracking: Monitors student success and failure rates.
+Department & Country-wise Student Distribution
+A detailed matrix table shows the number of students across different departments—Arts, Commerce, Engineering, and Science—for various countries including:
 
-💰 Financial Insights: Tracks tuition fee payment modes.
+American Samoa
+
+Bosnia and Herzegovina
+
+Djibouti
+
+Germany
+
+Ireland
+
+Portugal
+
+Slovenia, and more.
+
+This section provides a granular view of academic participation, useful for department and regional performance comparison.
+
+🧭 Navigation and Filtering
+
+Sidebar Navigation: The dashboard offers two views—Basic Dashboard and Intermediate Dashboard. This enables the user to switch views based on data detail preference.
+
+Department Filter: A dropdown filter allows users to view data by specific academic departments for customized insights.
+
+✅ Use Case
+
+This dashboard is ideal for:
+
+Educational institutions monitoring student performance.
+
+Administrators analyzing department-wise success/failure rates.
+
+Financial officers tracking fee collection modes.
+
+Planners reviewing enrollment patterns for strategic decision-making.
+
 
