@@ -1,6 +1,7 @@
 # Student Performance Dashboard
 
-![Screenshot 2025-04-12 205856](https://github.com/user-attachments/assets/b6caf5ba-0474-4a5e-bf88-869e2ec64ea9)
+![Screenshot 2025-04-12 211319](https://github.com/user-attachments/assets/017d9c33-4157-4bc5-9c4c-1e4f7905369c)
+
 
 📊 Student Performance Analytics Dashboard
 
